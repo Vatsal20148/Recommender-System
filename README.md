@@ -1,13 +1,2 @@
 # Movie-Recommender-System
-# Movie-Recommender-System
-# Movie-Recommender-System
-# Movie-Recommender-System
-# Movie-Recommender-System
-# Movie-Recommender-System
-# Movie-Recommender-System
-# Recommender-System
-# Recommender-System
-# Recommender-System
-# Recommender-System
-# Recommender-System
-# Recommender-System
+
